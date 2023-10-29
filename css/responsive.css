@@ -1,0 +1,274 @@
+@media (max-width: 1920px) {}
+
+@media (max-width: 1680px) {
+  .container {
+    max-width: 1450px;
+  }
+
+  html {
+    font-size: 53%;
+  }
+
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1440px) {
+  .container {
+    max-width: 1340px;
+  }
+
+  html {
+    font-size: 47%;
+  }
+
+
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1366px) {
+  .container {
+    max-width: 1240px;
+  }
+
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1280px) {
+  .container {
+    max-width: 1140px;
+  }
+
+  html {
+    font-size: 42%;
+  }
+
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1199px) {
+  .container {
+    max-width: 100%;
+  }
+
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1080px) {
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1024px) {}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 991px) {
+  /* custom navbar start */
+
+
+  /*  .cus_nav_innr {
+
+        position: relative;
+
+    }
+
+    .hdr-btn {
+
+        margin-right: 75px;
+    }
+
+    .cus_nav_outr .container {
+
+        padding: 0;
+    }
+
+    .logo_area {
+
+        padding-left: 20px;
+    }
+
+    .nav_area ul li {
+
+        margin-right: 0;
+    }
+
+    .navbar-toggler-icon {
+
+        margin-top: 6px;
+    }
+
+    */
+  /* Navbar Collpase */
+
+  .navbar-nav {
+    background: #8dc63f;
+    padding: 15px 0;
+    text-align: center;
+  }
+
+  .navbar-nav li {
+    padding: 0px 0px;
+  }
+
+  .navbar-nav li a {
+    font-size: 14px;
+    padding: 10px 0px;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    color: #330812;
+  }
+
+
+  ul.navbar-nav li a:hover:hover {
+    background: transparent;
+    color: #fff;
+  }
+
+  .navbar {
+    position: static;
+  }
+
+  .navbar .navbar-toggler {
+    position: absolute;
+    right: 20px;
+    border: none;
+    outline: none;
+    padding: 4px;
+    border-radius: 0;
+    top: -8px;
+    -webkit-transform: translateY(-47%);
+    -ms-transform: translateY(-47%);
+    transform: translateY(-47%);
+    background: transparent;
+    border-radius: 50%;
+    scroll-behavior: smooth;
+
+
+  }
+
+  .navbar .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(189, 79, 102, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+
+  .navbar-toggler:focus,
+  .navbar-toggler:active,
+  .navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+  .collapse:not(.show) {
+    display: none;
+  }
+
+  .navbar-collapse {
+    position: absolute;
+    z-index: 9;
+    left: 0;
+    top: 67px;
+    width: 100%;
+    transition: 0.7s;
+    background-color: #8dc63f;
+
+  }
+
+  .navbar-expand-lg .navbar-nav .nav-link:hover {
+
+    color: #fff;
+  }
+
+
+  /* Navbar Collapse End */
+  .navbar-nav .nav-item {
+    margin-right: 0;
+  }
+
+  /* custom navbar end */
+
+.navbar-nav span{
+  display: none;
+}
+}
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 900px) {
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 840px) {
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 768px) {
+
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 767px) {
+  
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 667px) {
+  .navbar .navbar-toggler {
+    right: 12px;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 600px) {
+
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 575px) {
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 480px) {
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 420px) {
+
+  #nav-icon3 span:nth-child(2),
+  #nav-icon3 span:nth-child(3) {
+    top: 12px;
+  }
+
+  #nav-icon3 span:nth-child(4) {
+    top: 20px;
+  }
+
+  .navbar .navbar-toggler {
+    top: -5px;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 390px) {}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 375px) {}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 360px) {}
+
+/*** ==================<<<<<>>>>>================== ***/
